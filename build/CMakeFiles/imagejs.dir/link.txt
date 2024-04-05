@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/imagejs.dir/main.c.o CMakeFiles/imagejs.dir/bmp.c.o CMakeFiles/imagejs.dir/pgf.c.o CMakeFiles/imagejs.dir/pnm.c.o CMakeFiles/imagejs.dir/webp.c.o CMakeFiles/imagejs.dir/gif.c.o -o imagejs 

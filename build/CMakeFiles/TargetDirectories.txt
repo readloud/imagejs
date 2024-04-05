@@ -1,0 +1,3 @@
+/media/svn/stream/Big-Papa/imagejs/build/CMakeFiles/imagejs.dir
+/media/svn/stream/Big-Papa/imagejs/build/CMakeFiles/edit_cache.dir
+/media/svn/stream/Big-Papa/imagejs/build/CMakeFiles/rebuild_cache.dir
